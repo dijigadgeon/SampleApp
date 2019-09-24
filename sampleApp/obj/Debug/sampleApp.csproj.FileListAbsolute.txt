@@ -1,0 +1,7 @@
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\bin\Debug\sampleApp.exe.config
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\bin\Debug\sampleApp.exe
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\bin\Debug\sampleApp.pdb
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\obj\Debug\sampleApp.csprojAssemblyReference.cache
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\obj\Debug\sampleApp.csproj.CoreCompileInputs.cache
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\obj\Debug\sampleApp.exe
+C:\Users\dbabu\source\repos\sampleApp\sampleApp\obj\Debug\sampleApp.pdb
